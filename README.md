@@ -12,6 +12,9 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
+# OUTPUT
+<img width="1404" height="619" alt="Image" src="https://github.com/user-attachments/assets/d920de87-3fe5-4571-999a-8e852283ff5b" />
+
 # Description
 This tool allows users to securely encrypt and decrypt files by entering a password, selecting an input file, and choosing an output file location. It uses the AES-256 encryption algorithm, which is one of the strongest encryption standards available, making it suitable for sensitive data protection. 
 
